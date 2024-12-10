@@ -362,7 +362,7 @@ elif pagina_selecionada == "Módulo 2: Senhas Seguras":
 
         st.markdown("""
         <div class="video-container">
-            <iframe width="1000" height="600" src="https://youtu.be/hWC5EBKQoUs" frameborder="0" allowfullscreen></iframe>
+            <iframe width="1000" height="600" src="https://www.youtube.com/embed/hWC5EBKQoUs?si=_nznvHT7443ySRQC" frameborder="0" allowfullscreen></iframe>
         </div>
         """, unsafe_allow_html=True)
 
